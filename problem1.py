@@ -12,3 +12,6 @@
 a = 5
 b=6
 print(a+b/2)
+
+print(a)
+print(b)
